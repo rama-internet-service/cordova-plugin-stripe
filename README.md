@@ -7,7 +7,7 @@ A Cordova plugin that lets you use Stripe Native SDKs for Android, iOS and Brows
 
 ## Installation
 ```shell
-cordova plugin add cordova-plugin-stripe
+cordova plugin add https://github.com/rama-internet-service/cordova-plugin-stripe
 ```
 
 <br>
